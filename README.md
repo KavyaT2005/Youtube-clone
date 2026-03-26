@@ -9,7 +9,7 @@ React
 Material UI
 JavaScript (ES6+)
 REST APIs (RapidAPI)
-
+Axios
 ---
 
 Overview of System Components
@@ -43,5 +43,3 @@ Real-time data fetching using APIs
 
 Conclusion
 This project demonstrates the practical implementation of modern frontend development concepts using React and API integration. It highlights the importance of component-based architecture, asynchronous data handling, and responsive design in building scalable web applications. Future improvements may include user authentication, playlist management, and backend integration for personalized recommendations.
-This project is based on the YouTube Clone project developed by Adrian Hajdin.
-Original repository: https://github.com/adrianhajdin/project_youtube_clone
